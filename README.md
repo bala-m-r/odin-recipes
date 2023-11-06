@@ -1,1 +1,2 @@
 # odin-recipes
+I have created a website with three web pages: "index," "gingertea," and "chickengray." The "index" page contains links to the other two pages. Each page features an image of the respective dish, along with details on ingredients and the recipe.
